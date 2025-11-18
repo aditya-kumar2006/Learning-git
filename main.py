@@ -8,3 +8,7 @@ if __name__ == "__main__":
     print(greet(user_name))
 
 print("Goodbye!")
+
+
+for i in range(5):
+    print(f"Counting: {i}")
