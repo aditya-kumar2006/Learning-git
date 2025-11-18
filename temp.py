@@ -25,3 +25,7 @@ print("this is a temp file")
 
 for u in range(1000):
     print("Hello word for i : ",u);
+
+
+for i in "aditya":
+    print(i,end=" ")
